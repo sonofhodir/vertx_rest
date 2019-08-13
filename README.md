@@ -1,7 +1,7 @@
 How to run:
 mvn clean package
 *you can skip this stage as I have uploaded target to github too
-java -jar target/vertx-1.0-SNAPSHOT-fat.jar
+java -jar fat-jar/vertx-1.0-SNAPSHOT-fat.jar
 
 go to:
 List accounts (initial datastore):
